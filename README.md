@@ -8,7 +8,7 @@
 >*"Aprendendo algo novo a cada dia..."*
 <p align="left">
   <a href="https://github.com/JocaSys?tab=seguidores">
-  <img alt="seguidores" title="Me segue aí man" src="https://custom-icon-badges.demolab.com/github/followers/JocaSys?color=FFFFFF&labelColor=E3E3E3&style=for-the-badge&logo=person-add&label=Seguidores&logoColor=black"/></a>
+  <img alt="Seguidores" title="Seguidores" src="https://custom-icon-badges.demolab.com/github/followers/JocaSys?color=FFFFFF&labelColor=E3E3E3&style=for-the-badge&logo=person-add&label=Seguidores&logoColor=black"/></a>
   <a href="https://github.com/JocaSys?tab=repositories&sort=stargazers">
   <img alt="Total de Estrelas" title="Total de estrelas no GitHub" src="https://custom-icon-badges.demolab.com/github/stars/JocaSys?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"/></a>
 </p>
