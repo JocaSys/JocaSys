@@ -10,7 +10,7 @@
   <a href="https://github.com/JocaSys?tab=followers">
   <img alt="Seguidores" title="Seguidores" src="https://custom-icon-badges.demolab.com/github/followers/JocaSys?color=FFFFFF&labelColor=E3E3E3&style=for-the-badge&logo=person-add&label=Seguidores&logoColor=black"/></a>
   <a href="https://github.com/JocaSys?tab=repositories&sort=stargazers">
-  <img alt="Total de Estrelas" title="Total de estrelas no GitHub" src="https://custom-icon-badges.demolab.com/github/stars/JocaSys?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"/></a>
+  <img alt="Total de Estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/JocaSys?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"/></a>
 </p>
 <img align="right" width="1000px" height="500px" src="./assets/background.gif">
 
